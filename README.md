@@ -46,10 +46,10 @@
 ## 🌐 Contato
 
 - GitHub: [dudinhacossta](https://github.com/dudinhacossta)
-- (Adicione aqui: LinkedIn, Instagram ou outras redes se quiser!)
+- 
 
 ---
 
 <p align="center">
-  ☁️🔒 Sempre em busca de evoluir na **Cybersegurança** e **Cloud Computing**!
+  ☁️🔒 Sempre em busca de evoluir na Cybersegurança e Cloud Computing!
 </p>
